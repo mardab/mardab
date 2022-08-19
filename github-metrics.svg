@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 19 repositories
+                            Contributed to 18 repositories
                         </div>
                     </section>
                 </div>
@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marcodaniel/mdframed</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">auto-split frame environment for LaTeX</div>
@@ -343,7 +343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>farruggia/bc-zip</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bicriteria Data Compressor</div>
@@ -390,7 +390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rschlaikjer/faff</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find and Flash FPGA - tool for interacting with custom FPGA flash loader</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MiloszKrajewski/SilesiaCorpus</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Silesia compression corpus</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sgw32/UltiSID</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source SID 8580/6581 emulator that can be executed on Bluepill boards and STM32F103</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twizzler-operating-system/twizzler-public</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public-facing version of the Twizzler OS source code. Note: this is not completely up-to-date with internal Twizzler code.</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>foldedtoad/dwm3000</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Port of Qorvo/Decawave's DWM3000 Module on the DWS3000 Arduino Shield</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hechao/GD32V</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -685,7 +685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VLSIDA/OpenRAM</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source static random access memory (SRAM) compiler.</div>
@@ -719,7 +719,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        94
+                                        95
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -738,7 +738,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flamegraph-rs/flamegraph</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3</div>
@@ -759,7 +759,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.67k
+                                        2.68k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -791,7 +791,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nickbabcock/bitter</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extract bits from a byte slice</div>
@@ -838,7 +838,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hydrausb3/hydrausb3_fw</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HydraUSB3 (WCH CH569) open source test firmware / examples / libraries to experiment with streaming / high-speed protocols (USB2 HS, USB3 SS, HSPI, SerDes...)</div>
@@ -891,7 +891,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>no2fpga/no2bootloader</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">USB DFU bootloader gateware / firmware for FPGAs</div>
@@ -944,7 +944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skiselev/monster-fdc</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ISA floppy disk controller card that supports up to 8 floppy drives</div>
@@ -985,7 +985,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azzeloof/osj</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1039,7 +1039,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orbcode/orbtrace</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Debug and parallel trace hardware for CORTEX-M (FPGA + support code)</div>
@@ -1148,7 +1148,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2022, 10:17:31 (timezone Europe/Warsaw) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 10:18:06 (timezone Europe/Warsaw) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
