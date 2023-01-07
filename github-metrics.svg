@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>splinedrive/my_hdmi_device</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New clean hdmi implementation for ulx3s, icestick, icoboard, arty7, colorlight i5 and blackicemx! With tmds encoding hacked down from dvi standard. Supports DDR and SRD tranfser!</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>triplea-game/triplea</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TripleA is a turn based strategy game and board game engine, similar to Axis &amp; Allies or Risk.</div>
@@ -370,7 +370,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        838
+                                        839
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openwch/ch32v003</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CH32V003 is an ultra-cheap RISC-V MCU with 2KB SRAM, 16KB flash, and up to 18 GPIOs that sells for under $0.10</div>
@@ -455,7 +455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rasteri/HIDman</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adapting USB devices to work on old computers</div>
@@ -508,7 +508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BenjaminFaal/ps4-remote-pkg-installer</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PS4 Remote PKG Installer GUI for https://github.com/flatz/ps4_remote_pkg_installer</div>
@@ -561,7 +561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webhdx/PicoBoot</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube</div>
@@ -614,7 +614,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bondus/CanSerial</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serial port emulation over CAN bus</div>
@@ -667,7 +667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>techie66/CANSerial</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serial port emulation over CAN bus</div>
@@ -720,7 +720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danjulio/gCore</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESP32 development board for portable GUI-based designs.</div>
@@ -741,7 +741,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        34
+                                        35
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -773,7 +773,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emfcamp/tidal-docs</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -815,7 +815,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HSchmale16/RSA-React</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -863,7 +863,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AprilRobotics/apriltag</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AprilTag is a visual fiducial system popular for robotics research.</div>
@@ -916,7 +916,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MrJavaWolf/BornHack2022Game</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A hack'n'slash game made for the BornHack 2022 Game On Badge</div>
@@ -969,7 +969,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bornhack/badge2022</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BornHack Badge 2022</div>
@@ -1022,7 +1022,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>designer2k2/BerlinUhr</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Berlin Uhr or Mengenlehreuhr, a fancy retro style clock</div>
@@ -1075,7 +1075,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gusmanb/logicanalyzer</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">24 channel, 100Msps logic analyzer hardware and software</div>
@@ -1096,7 +1096,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        833
+                                        834
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1188,7 +1188,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2023, 09:15:36 (timezone Europe/Warsaw) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 7 Jan 2023, 09:14:50 (timezone Europe/Warsaw) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
