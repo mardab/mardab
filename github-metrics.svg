@@ -35,8 +35,8 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dan-german/blocks</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">simple modular synth</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaycordaro/pdmbrd</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Analog audio to Pulse Density Modulation (PDM) using OnSemi FAN3852 ICs</div>
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenNuvoton/MPU-Family</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux/Non-OS Sample Code and Resources for ARM9/Cortex-A35 MPUs</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>git-sgmoore/AlpineLinux-DailyDriverDesktop</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My minimalist desktop running Alpine Linux</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ingenic-community/IngenicHAL</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Portable peripheral drivers for Ingenic SoCs.</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethercrab-rs/ethercrab</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EtherCAT master written in pure Rust</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-embedded/embedded-alloc</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A heap allocator for Cortex-M processors</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libre-computer-project/libretech-flash-tool</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -679,7 +679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrkline/concurrency-primer</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The basics of low-level concurrency in a sub-30 minute read</div>
@@ -732,7 +732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrkline/cache-demo</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A demo on the performance impacts of cache-friendly memory access</div>
@@ -779,7 +779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grpc/grpc-web</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gRPC for Web Clients</div>
@@ -832,7 +832,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GPUOpen-Drivers/AMDVLK</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AMD Open Source Driver For Vulkan</div>
@@ -879,7 +879,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cryfs/cryfs</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cryptographic filesystem for the cloud</div>
@@ -932,7 +932,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WayfireWM/wayfire</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modular and extensible wayland compositor</div>
@@ -985,7 +985,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenKJ/OpenKJ</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source karaoke show hosting software.</div>
@@ -1006,7 +1006,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        118
+                                        119
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1038,7 +1038,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kalysti/terrain-tool-godot4</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GODOT 4 3D Terrain Editor (C# Plugin)</div>
@@ -1154,7 +1154,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2023, 10:14:32 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2023, 10:13:05 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
