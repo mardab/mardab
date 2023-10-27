@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CRImier/sdlocker-tiny</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Attiny85-based device to enable and disable write-protection on any SD card</div>
@@ -343,7 +343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CRImier/AltmodeFriend</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Altmode Friend code, STEP and other files</div>
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Koromix/tytools</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of tools to manage Teensy boards</div>
@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mkrl/misbrands</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The world's most hated IT stickers</div>
@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitwig/dawproject</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open exchange format for DAWs</div>
@@ -524,7 +524,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        44
+                                        45
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -543,7 +543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kendryte/k230_docs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kendryte K230 SDK Docs</div>
@@ -596,7 +596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sophgocommunity/CV180-Duo</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Milk-V Duo is an ultra-compact embedded development platform based on the Sophgo CV1800B chip. It can run Linux and RTOS, 0.2TOPS computing power@INT8 for professionals, industrial ODMs, AIoT enthusiasts, DIY hobbyists, and creators. This repository is licensed under CC BY-NC-SA 4.0</div>
@@ -643,7 +643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ripperhowls/Posys-Cursors-Improved-by-ripperhowls</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/</div>
@@ -684,7 +684,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>igorpodolak/mum2016</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -732,7 +732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>igorpodolak/personality_traits</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explore the personality traits basing on EEG recordings using ML methods</div>
@@ -779,7 +779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fvdhoef/vera-module</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Versatile Embedded Retro Adapter</div>
@@ -832,7 +832,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>logseq/logseq</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</div>
@@ -885,7 +885,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloidnerux/hoverboard-firmware-hack</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New Hoverboard Firmware Hack. Now written from scratch and generally much better.</div>
@@ -938,7 +938,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lucysrausch/hoverboard-firmware-hack</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New Hoverboard Firmware Hack. Now written from scratch and generally much better.</div>
@@ -991,7 +991,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SoCXin/AT32F403A</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">L5 R4: arterytek Cortex-M4 240MHz MCU (AT32F403A)</div>
@@ -1032,7 +1032,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boosterl/awesome-mango-pi-mq-pro</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome MangoPi MQ-Pro images, tools and resources</div>
@@ -1137,7 +1137,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2023, 10:14:13 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 10:13:58 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
