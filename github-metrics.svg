@@ -34,11 +34,11 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-deepmind/meltingpot</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A suite of test scenarios for multi-agent reinforcement learning.</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WasabiFan/tidl-yolov5-custom-model-demo</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A walkthrough and personal notes on running YOLOv5 models with TIDL.</div>
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EnJens/backupTA</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dirtycow based TA partition dumper (See https://forum.xda-developers.com/crossdevice-dev/sony/universal-dirtycow-based-ta-backup-t3514236 for more information=</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TexasInstruments/edgeai-tensorlab</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Edge AI Model Development Tools</div>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cadars/john-doe</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple way to make HTML websites</div>
@@ -555,7 +555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gligli/overcycler</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Affordable DIY polyphonic hybrid single cycle / analog synthesizer</div>
@@ -608,7 +608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>baconpaul/airwin2rack</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin</div>
@@ -642,7 +642,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        59
+                                        60
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -661,7 +661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowenware/dotrix</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 3D Engine written in Rust</div>
@@ -714,7 +714,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shorepine/amy</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AMY - the Additive Music synthesizer librarY</div>
@@ -767,7 +767,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pbatard/libwdi</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows Driver Installer library for USB devices</div>
@@ -820,7 +820,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-embedded/rust-raspberrypi-OS-tutorials</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -877,7 +877,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nopperl/load-reddit-images-directly</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firefox web extension that loads reddit images directly instead of referring to the HTML page containing the image.</div>
@@ -930,7 +930,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dartespl/rl_social_dilemma</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -978,7 +978,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pichenettes/shruthi-1</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firmware and hardware description files for the Shruthi-1, an hybrid monosynth</div>
@@ -1025,7 +1025,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jakplugg/uO_c</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">8hp version of ornament and crime.</div>
@@ -1066,7 +1066,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fedora-iot/greenboot</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generic Health Checking Framework for systemd</div>
@@ -1188,7 +1188,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2024, 10:16:51 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2024, 10:16:31 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
