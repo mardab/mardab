@@ -33,8 +33,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tt-design-studio/psu-mac-se</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apple Macintosh SE/30 and SE DIY replacement power supply board (PSU)</div>
@@ -337,7 +337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schollz/pitter-patter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EngineersNeedArt/SystemSix</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">e-Ink Calendar</div>
@@ -438,7 +438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cortexprog/cortexprogfw</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -492,7 +492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cortexprog/cortexproghw</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -540,7 +540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sbcshop/UPS-Hat-RPi</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UPS Hat is a 5v power supply, It fit at the top of the raspberry pi, it gives power backup, while raspberry pi's USB power is cut off. It has various protections like short circuit protection, reverse battery protection and indicator, overcharge/discharge protection, and over current protection. It has a 5V USB output, convenient for powering other boards.</div>
@@ -593,7 +593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>workman-layout/Workman</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Workman keyboard layout</div>
@@ -646,7 +646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sparkfunX/Soft_Power_Switch_Mk2</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Soft Power Switch Mk2</div>
@@ -693,7 +693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monokuroumu/Kazik</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">10U keyboard with regular stagger</div>
@@ -740,7 +740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anfractuosity/specklepattern</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Finding the difference between laser speckle patterns, to detect key presses etc.</div>
@@ -787,7 +787,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rocktronica/unfocus</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to help cut down on time spent on Twitter, reading the news, etc.</div>
@@ -834,7 +834,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rocktronica/timelapse</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shell scripts for capturing and compiling timelapse photography</div>
@@ -881,7 +881,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rocktronica/shopdocs</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(work)shop doc(ument)s</div>
@@ -928,7 +928,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intelligent-agent/replicape</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">3D-printer cape for BeagleBone</div>
@@ -981,7 +981,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intelligent-agent/Reflash</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flasher image for Refactor distro for use with Recore 3D printer board</div>
@@ -1034,7 +1034,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>craigjb/DX7-JTAG</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adapter board for access to the Kintex and MachXO2 JTAG ports on a HAPS-DX7</div>
@@ -1150,7 +1150,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2024, 10:19:15 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 10:18:37 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
