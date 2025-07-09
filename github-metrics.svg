@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openhwgroup/cvfpu</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hkzlab/MIDI-Stick</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MIDI-Stick is a small MIDI synth based on the SAM2965 that plugs in the joystick port of your sound card</div>
@@ -390,7 +390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intel/gna</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GNA - Gaussian &amp; Neural Accelerator Library repository</div>
@@ -411,7 +411,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        97
+                                        98
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>palmerr23/Teensy8x8AudioBoard</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Design files and library for a stackable TLV320AIC3104 based 8x8 multi-channel audio board for Teensy 4.x</div>
@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>palmerr23/control_TLV320AIC3104</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Teensy Audio Library driver for the TLV320AIC3104 CODEC</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NeverVane/commandchronicles</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Never Lose a Command Again. Ever</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SimulaVR/tinywl-xwayland</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">C fork of tinywl to test for xwayland capabilities.</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShawnHymel/rpi-cm4-carrier-template</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -679,7 +679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tommybee456/OpenSteamDeckController</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A steam deck-like controller made from off the shelf parts and custom hardware and firmware</div>
@@ -700,7 +700,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        130
+                                        131
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -732,7 +732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terioto/bento_ttymidi</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MIDI Serial Bridge for Raspberry PI</div>
@@ -785,7 +785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>daydreamerSynth/daydreamer_synth1</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -839,7 +839,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhanba/awesome-2d-graphics-rendering</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome vector graphic and font rendering resources</div>
@@ -880,7 +880,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cberner/raptorq</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust implementation of RaptorQ (RFC6330)</div>
@@ -933,7 +933,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nrnrnr/noweb</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The noweb tool for literate programming</div>
@@ -986,7 +986,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fliptron/T41_EBTKS_FW_1.0</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firmware for EBTKS V2.0</div>
@@ -1039,7 +1039,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>da-luce/astroterm</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐</div>
@@ -1060,7 +1060,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.22k
+                                        1.23k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1161,7 +1161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2025, 10:23:28 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2025, 10:23:05 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
