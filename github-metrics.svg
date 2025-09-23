@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>massgravel/Microsoft-Activation-Scripts</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</div>
@@ -330,7 +330,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        749
+                                        750
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schollz/collidertracker</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal-based music tracker that uses SuperCollider for synthesis and sample playback.</div>
@@ -383,7 +383,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        19
+                                        20
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Chrutil/PlaitsMU</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Plaits Macro Oscillator ported to MU</div>
@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awesomized/crc-fast-rust</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">World's fastest generic CRC calculator for all known CRC-32 and CRC-64 variants, as well as bring-your-own custom parameters, using SIMD intrinsics, which can exceed 100GiB/s on modern systems. Supplies a C/C++ compatible library for use with languages other than Rust.</div>
@@ -496,7 +496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbcrossbar/dbcrossbar</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Copy tabular data between databases, CSV files and cloud storage</div>
@@ -549,7 +549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ispc/ispc</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Intel® Implicit SPMD Program Compiler</div>
@@ -602,7 +602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linebender/vello</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GPU compute-centric 2D renderer.</div>
@@ -642,7 +642,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        969
+                                        972
                                     </div>
                                 </div>
                             </section>
@@ -655,7 +655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/muzic</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Muzic: Music Understanding and Generation with Artificial Intelligence</div>
@@ -708,7 +708,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andremichelle/compact</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Mobile Friendly Audiotool Music Navigator</div>
@@ -761,7 +761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>4ms/stm32mp2-baremetal</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bare-metal experiments with the STM32MP25x Dual Cortex-A35 chip</div>
@@ -808,7 +808,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fred-dev/OSC_MIDI_OSC</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple crossplatform OSC to Midi and Midi to OSC convertor</div>
@@ -855,7 +855,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FiloSottile/mostly-harmless</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bag of various unrelated projects with varying levels of serviceability and destructiveness.</div>
@@ -902,7 +902,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sq5bpf/youpot</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Youpot is a novel proxy-back honeypot</div>
@@ -955,7 +955,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rust-GPU/rust-gpu.github.io</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust-GPU org website</div>
@@ -1002,7 +1002,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SanderVocke/shoopdaloop</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A (live) looping application with DAW elements.</div>
@@ -1055,7 +1055,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dazzid/chromaflow</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modelling And Generating Harmonic Progressions With a Transformer And Voicing Encodings</div>
@@ -1177,7 +1177,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2025, 10:22:08 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2025, 10:20:55 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
